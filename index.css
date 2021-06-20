@@ -8,3 +8,9 @@ body {
     height: 200px;
     border-right-color: aliceblue;
 }
+
+.box2 {
+    width: 400px;
+    height: 460px;
+    background-color: #bfa;
+}
