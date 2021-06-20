@@ -2,3 +2,15 @@ body {
     font-size: 20px;
     background-color: aliceblue;
 }
+
+.banner {
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+}
+
+.nav {
+    width: 50px;
+    height: 50px;
+    background-color: #bfa;
+}
