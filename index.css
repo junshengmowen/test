@@ -19,3 +19,8 @@ body {
     glyph-orientation-vertical: auto;
     height: 20px;
 }
+
+.hu {
+    stroke-dasharray: none;
+    additive-symbols: -moz-element(stroke-dasharray);
+}
