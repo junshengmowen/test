@@ -14,3 +14,8 @@ body {
     height: 460px;
     background-color: #bfa;
 }
+
+.bu {
+    glyph-orientation-vertical: auto;
+    height: 20px;
+}
