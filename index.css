@@ -1,0 +1,10 @@
+body {
+    font-size: 20px;
+    background-color: aliceblue;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border-right-color: aliceblue;
+}
